@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">242841391600-1lla6gm87608trmdckrdb6oc9n4c0lse.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">242841391600</string>
+    <string name="google_api_key" translatable="false">AIzaSyD62EZUhfG6WmTEi1V-dJm4zbhmTh49noM</string>
+    <string name="google_app_id" translatable="false">1:242841391600:android:40a81d6b24dd200be94d35</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD62EZUhfG6WmTEi1V-dJm4zbhmTh49noM</string>
+    <string name="google_storage_bucket" translatable="false">eko-hotels-delivery.appspot.com</string>
+    <string name="project_id" translatable="false">eko-hotels-delivery</string>
+</resources>

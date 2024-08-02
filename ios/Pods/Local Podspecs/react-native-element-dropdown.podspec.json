@@ -1,0 +1,25 @@
+{
+  "name": "react-native-element-dropdown",
+  "version": "1.2.8",
+  "summary": "A react-native dropdown component easy to customize for both iOS and Android.",
+  "description": "react-native-element-dropdown",
+  "homepage": "https://github.com/github_account/react-native-element-dropdown",
+  "license": "MIT",
+  "authors": {
+    "Your Name": "yourname@email.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/github_account/react-native-element-dropdown.git",
+    "tag": "1.2.8"
+  },
+  "source_files": "ios/**/*.{h,c,cc,cpp,m,mm,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

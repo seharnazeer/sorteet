@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "242841391600",
+    "project_id": "eko-hotels-delivery",
+    "storage_bucket": "eko-hotels-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242841391600:android:40a81d6b24dd200be94d35",
+        "android_client_info": {
+          "package_name": "com.sorteet.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242841391600-e7fcikbn42tb7iab7f3sjos840epkmeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sorteet.com",
+            "certificate_hash": "6efe2d1b4443799c255376d5250ef3722b80a967"
+          }
+        },
+        {
+          "client_id": "242841391600-o69amb3qhiud1n1ql1bm8n05h8q541cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sorteet.com",
+            "certificate_hash": "c7e6ad2b9fc21e946bf5ffb176ceb4ddc121d710"
+          }
+        },
+        {
+          "client_id": "242841391600-1lla6gm87608trmdckrdb6oc9n4c0lse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD62EZUhfG6WmTEi1V-dJm4zbhmTh49noM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242841391600-1lla6gm87608trmdckrdb6oc9n4c0lse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "242841391600-7qlh8k8s9g6nt4ga84vpnpq3bs7gpaud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ekohotelsdelivery.userapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242841391600:android:a011882a1821e05ee94d35",
+        "android_client_info": {
+          "package_name": "com.sorteet.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242841391600-ghhv1f6fvn9s06b0t9b0e92fnkek06b2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sorteet.com",
+            "certificate_hash": "dfcf28e8a67d6f8f527eebe3ab6a529015544665"
+          }
+        },
+        {
+          "client_id": "242841391600-1lla6gm87608trmdckrdb6oc9n4c0lse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD62EZUhfG6WmTEi1V-dJm4zbhmTh49noM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242841391600-1lla6gm87608trmdckrdb6oc9n4c0lse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "242841391600-7qlh8k8s9g6nt4ga84vpnpq3bs7gpaud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ekohotelsdelivery.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

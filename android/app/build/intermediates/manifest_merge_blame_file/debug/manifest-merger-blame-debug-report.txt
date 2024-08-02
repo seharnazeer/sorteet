@@ -1,0 +1,722 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sorteet.com"
+4    android:versionCode="1"
+5    android:versionName="1.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:5:3-65
+11-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:5:20-62
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:6:3-76
+12-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:6:20-73
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:7:3-77
+13-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:7:20-74
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:8:3-79
+14-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:8:20-76
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:9:3-63
+15-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:9:20-60
+16    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+16-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:10:3-73
+16-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:10:20-70
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:11:3-66
+17-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:11:20-63
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:12:3-64
+18-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:12:20-61
+19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+19-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:13:3-79
+19-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:13:20-76
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:14:3-78
+20-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:14:20-75
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:15:3-79
+21-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:15:20-76
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:17:3-77
+22-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:17:20-74
+23    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+23-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:18:5-76
+23-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:18:22-74
+24
+25    <queries>
+25-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:19:1-34:11
+26        <intent>
+26-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:20:5-22:14
+27            <action android:name="android.media.action.IMAGE_CAPTURE" />
+27-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:21:9-69
+27-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:21:17-66
+28        </intent>
+29        <intent>
+29-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:23:5-26:14
+30            <action android:name="android.intent.action.GET_CONTENT" />
+30-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:24:9-68
+30-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:24:17-65
+31
+32            <data android:mimeType="image/*" />
+32-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:25:9-44
+32-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:25:15-41
+33        </intent>
+34        <intent>
+34-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:27:5-30:14
+35            <action android:name="android.intent.action.PICK" />
+35-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:28:9-61
+35-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:28:17-58
+36
+37            <data android:mimeType="image/*" />
+37-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:25:9-44
+37-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:25:15-41
+38        </intent>
+39        <intent>
+39-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:31:5-33:15
+40            <action android:name="android.intent.action.CHOOSER" />
+40-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:32:9-64
+40-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:32:17-61
+41        </intent>
+42        <intent>
+42-->[:react-native-inappbrowser-reborn] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-inappbrowser-reborn/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-16:18
+43            <action android:name="android.support.customtabs.action.CustomTabsService" />
+43-->[:react-native-inappbrowser-reborn] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-inappbrowser-reborn/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-90
+43-->[:react-native-inappbrowser-reborn] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-inappbrowser-reborn/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:21-87
+44        </intent>
+45
+46        <package android:name="com.facebook.katana" /> <!-- Needs to be explicitly declared on Android R+ -->
+46-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:30:9-55
+46-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:30:18-52
+47        <package android:name="com.google.android.apps.maps" />
+47-->[com.google.android.gms:play-services-maps:17.0.1] /home/sehar/.gradle/caches/transforms-3/19717603a0f6eddf840d714d415aa494/transformed/jetified-play-services-maps-17.0.1/AndroidManifest.xml:33:9-64
+47-->[com.google.android.gms:play-services-maps:17.0.1] /home/sehar/.gradle/caches/transforms-3/19717603a0f6eddf840d714d415aa494/transformed/jetified-play-services-maps-17.0.1/AndroidManifest.xml:33:18-61
+48    </queries>
+49
+50    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required to to download files without a notification -->
+50-->[com.facebook.flipper:flipper:0.99.0] /home/sehar/.gradle/caches/transforms-3/a2d63baba8e9b220247a20e522c5a22c/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
+50-->[com.facebook.flipper:flipper:0.99.0] /home/sehar/.gradle/caches/transforms-3/a2d63baba8e9b220247a20e522c5a22c/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
+51    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+51-->[:react-native-blob-util] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-blob-util/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-88
+51-->[:react-native-blob-util] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-blob-util/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:22-85
+52
+53    <uses-feature
+53-->[:react-native-camera] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+54        android:name="android.hardware.camera"
+54-->[:react-native-camera] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+55        android:required="false" />
+55-->[:react-native-camera] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+56    <uses-feature
+56-->[:react-native-camera] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+57        android:name="android.hardware.camera.autofocus"
+57-->[:react-native-camera] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+58        android:required="false" />
+58-->[:react-native-camera] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+59    <uses-feature
+59-->[com.google.android.gms:play-services-maps:17.0.1] /home/sehar/.gradle/caches/transforms-3/19717603a0f6eddf840d714d415aa494/transformed/jetified-play-services-maps-17.0.1/AndroidManifest.xml:26:5-28:35
+60        android:glEsVersion="0x00020000"
+60-->[com.google.android.gms:play-services-maps:17.0.1] /home/sehar/.gradle/caches/transforms-3/19717603a0f6eddf840d714d415aa494/transformed/jetified-play-services-maps-17.0.1/AndroidManifest.xml:27:9-41
+61        android:required="true" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+61-->[com.google.android.gms:play-services-maps:17.0.1] /home/sehar/.gradle/caches/transforms-3/19717603a0f6eddf840d714d415aa494/transformed/jetified-play-services-maps-17.0.1/AndroidManifest.xml:28:9-32
+62    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+62-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:28:5-82
+62-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:28:22-79
+63    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+63-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:26:5-110
+63-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:26:22-107
+64
+65    <application
+65-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:35:5-103:19
+66        android:name="com.sorteet.com.MainApplication"
+66-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:36:7-53
+67        android:allowBackup="false"
+67-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:40:7-34
+68        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+68-->[androidx.core:core:1.5.0] /home/sehar/.gradle/caches/transforms-3/ddcf7ce973729156ebd751eeaef82bdf/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+69        android:debuggable="true"
+70        android:exported="true"
+70-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:44:9-33
+71        android:forceDarkAllowed="false"
+71-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:43:9-41
+72        android:icon="@mipmap/ic_launcher"
+72-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:38:7-41
+73        android:label="@string/app_name"
+73-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:37:7-39
+74        android:roundIcon="@mipmap/ic_launcher"
+74-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:39:7-46
+75        android:supportsRtl="true"
+75-->[com.facebook.android:facebook-android-sdk:14.1.1] /home/sehar/.gradle/caches/transforms-3/b39803dbdefe36e1c506b308feaf4094/transformed/jetified-facebook-android-sdk-14.1.1/AndroidManifest.xml:28:18-44
+76        android:theme="@style/AppTheme"
+76-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:41:7-38
+77        android:usesCleartextTraffic="true" >
+77-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:42:7-42
+78        <meta-data
+78-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:49:3-51:65
+79            android:name="com.google.android.geo.API_KEY"
+79-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:50:7-52
+80            android:value="AIzaSyABGEzy_laBXmXJLR4x1IOQj3zSyqHGqVo" />
+80-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:51:7-62
+81        <meta-data
+81-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:52:3-54:63
+82            android:name="com.google.android.gms.version"
+82-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:53:7-52
+83            android:value="@integer/google_play_services_version" />
+83-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:54:7-60
+84        <meta-data
+84-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:55:1-56:42
+85            android:name="com.facebook.sdk.ApplicationId"
+85-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:55:12-57
+86            android:value="@string/facebook_app_id" />
+86-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:56:1-40
+87        <meta-data
+87-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:57:1-103
+88            android:name="com.facebook.sdk.ClientToken"
+88-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:57:12-55
+89            android:value="@string/facebook_client_token" />
+89-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:57:56-101
+90        <meta-data
+90-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:59:3-61:56
+91            android:name="com.google.firebase.messaging.default_notification_icon"
+91-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:60:9-79
+92            android:resource="@drawable/ic_notification" />
+92-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:61:9-53
+93        <meta-data
+93-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:63:5-66:44
+94            android:name="com.google.firebase.messaging.default_notification_color"
+94-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:64:9-80
+95            android:resource="@color/primary" />
+95-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:65:9-42
+96
+97        <provider
+98            android:name="androidx.core.content.FileProvider"
+98-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:70:7-56
+99            android:authorities="com.sorteet.com.provider"
+99-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:71:7-54
+100            android:exported="false"
+100-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:72:7-31
+101            android:grantUriPermissions="true" >
+101-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:73:7-41
+102            <meta-data
+102-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:74:7-76:47
+103                android:name="android.support.FILE_PROVIDER_PATHS"
+103-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:75:11-61
+104                android:resource="@xml/filepaths" />
+104-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:76:11-44
+105        </provider>
+106
+107        <activity
+107-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:79:7-98:18
+108            android:name="com.sorteet.com.MainActivity"
+108-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:80:9-52
+109            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+109-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:82:9-86
+110            android:exported="true"
+110-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:85:9-32
+111            android:label="@string/app_name"
+111-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:81:9-41
+112            android:launchMode="singleTask"
+112-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:84:9-40
+113            android:screenOrientation="portrait"
+113-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:83:9-45
+114            android:theme="@style/AppTheme.Launcher"
+114-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:86:12-52
+115            android:windowSoftInputMode="adjustPan" >
+115-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:87:10-49
+116            <intent-filter>
+116-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:88:9-91:25
+117                <action android:name="android.intent.action.MAIN" />
+117-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:89:13-65
+117-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:89:21-62
+118
+119                <category android:name="android.intent.category.LAUNCHER" />
+119-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:90:13-73
+119-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:90:23-70
+120            </intent-filter>
+121            <intent-filter>
+121-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:92:9-97:23
+122                <action android:name="android.intent.action.VIEW" />
+122-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:93:11-63
+122-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:93:19-60
+123
+124                <category android:name="android.intent.category.DEFAULT" />
+124-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:94:11-70
+124-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:94:21-67
+125                <category android:name="android.intent.category.BROWSABLE" />
+125-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:95:11-72
+125-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:95:21-69
+126
+127                <data
+127-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:25:9-44
+128                    android:host="my-host"
+128-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:96:44-66
+129                    android:pathPrefix=""
+129-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:96:67-88
+130                    android:scheme="my-scheme" />
+130-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:96:17-43
+131            </intent-filter>
+132        </activity>
+133        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+133-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:100:7-84
+133-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:100:17-81
+134
+135        <meta-data
+135-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:36
+136            android:name="app_data_collection_default_enabled"
+136-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
+137            android:value="true" />
+137-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-33
+138
+139        <service
+139-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+140            android:name="com.google.firebase.components.ComponentDiscoveryService"
+140-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+141            android:directBootAware="true"
+141-->[com.google.firebase:firebase-common:20.2.0] /home/sehar/.gradle/caches/transforms-3/f1a348499b5c17b84a4de0ef60614b34/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:34:13-43
+142            android:exported="false" >
+142-->[com.google.firebase:firebase-crashlytics-ndk:18.2.3] /home/sehar/.gradle/caches/transforms-3/c5d37bb72c79ff57d7c17060fee4b6e5/transformed/jetified-firebase-crashlytics-ndk-18.2.3/AndroidManifest.xml:34:13-37
+143            <meta-data
+143-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+144                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+144-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-120
+145                android:value="com.google.firebase.components.ComponentRegistrar" />
+145-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+146            <meta-data
+146-->[com.google.firebase:firebase-crashlytics-ndk:18.2.3] /home/sehar/.gradle/caches/transforms-3/c5d37bb72c79ff57d7c17060fee4b6e5/transformed/jetified-firebase-crashlytics-ndk-18.2.3/AndroidManifest.xml:35:13-37:85
+147                android:name="com.google.firebase.components:com.google.firebase.crashlytics.ndk.CrashlyticsNdkRegistrar"
+147-->[com.google.firebase:firebase-crashlytics-ndk:18.2.3] /home/sehar/.gradle/caches/transforms-3/c5d37bb72c79ff57d7c17060fee4b6e5/transformed/jetified-firebase-crashlytics-ndk-18.2.3/AndroidManifest.xml:36:17-122
+148                android:value="com.google.firebase.components.ComponentRegistrar" />
+148-->[com.google.firebase:firebase-crashlytics-ndk:18.2.3] /home/sehar/.gradle/caches/transforms-3/c5d37bb72c79ff57d7c17060fee4b6e5/transformed/jetified-firebase-crashlytics-ndk-18.2.3/AndroidManifest.xml:37:17-82
+149            <meta-data
+149-->[com.google.firebase:firebase-crashlytics:18.2.3] /home/sehar/.gradle/caches/transforms-3/8612cd5548afff4711a6bca9666ffdf9/transformed/jetified-firebase-crashlytics-18.2.3/AndroidManifest.xml:18:13-20:85
+150                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+150-->[com.google.firebase:firebase-crashlytics:18.2.3] /home/sehar/.gradle/caches/transforms-3/8612cd5548afff4711a6bca9666ffdf9/transformed/jetified-firebase-crashlytics-18.2.3/AndroidManifest.xml:19:17-115
+151                android:value="com.google.firebase.components.ComponentRegistrar" />
+151-->[com.google.firebase:firebase-crashlytics:18.2.3] /home/sehar/.gradle/caches/transforms-3/8612cd5548afff4711a6bca9666ffdf9/transformed/jetified-firebase-crashlytics-18.2.3/AndroidManifest.xml:20:17-82
+152            <meta-data
+152-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:55:13-57:85
+153                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+153-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:56:17-119
+154                android:value="com.google.firebase.components.ComponentRegistrar" />
+154-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:57:17-82
+155            <meta-data
+155-->[com.google.firebase:firebase-datatransport:18.1.7] /home/sehar/.gradle/caches/transforms-3/c01b064dbaf7df8d6882730704628914/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+156                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+156-->[com.google.firebase:firebase-datatransport:18.1.7] /home/sehar/.gradle/caches/transforms-3/c01b064dbaf7df8d6882730704628914/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+157                android:value="com.google.firebase.components.ComponentRegistrar" />
+157-->[com.google.firebase:firebase-datatransport:18.1.7] /home/sehar/.gradle/caches/transforms-3/c01b064dbaf7df8d6882730704628914/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+158            <meta-data
+158-->[com.google.android.gms:play-services-measurement-api:21.1.1] /home/sehar/.gradle/caches/transforms-3/d201b2635f96578c64b6a327a49228ff/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:31:13-33:85
+159                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+159-->[com.google.android.gms:play-services-measurement-api:21.1.1] /home/sehar/.gradle/caches/transforms-3/d201b2635f96578c64b6a327a49228ff/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:32:17-139
+160                android:value="com.google.firebase.components.ComponentRegistrar" />
+160-->[com.google.android.gms:play-services-measurement-api:21.1.1] /home/sehar/.gradle/caches/transforms-3/d201b2635f96578c64b6a327a49228ff/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:33:17-82
+161            <meta-data
+161-->[com.google.firebase:firebase-installations:17.1.0] /home/sehar/.gradle/caches/transforms-3/d132068e1d5764c2919ba3e3a00e4306/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:17:13-19:85
+162                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+162-->[com.google.firebase:firebase-installations:17.1.0] /home/sehar/.gradle/caches/transforms-3/d132068e1d5764c2919ba3e3a00e4306/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:18:17-127
+163                android:value="com.google.firebase.components.ComponentRegistrar" />
+163-->[com.google.firebase:firebase-installations:17.1.0] /home/sehar/.gradle/caches/transforms-3/d132068e1d5764c2919ba3e3a00e4306/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:19:17-82
+164        </service>
+165
+166        <provider
+166-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-26:38
+167            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+167-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-88
+168            android:authorities="com.sorteet.com.reactnativefirebaseappinitprovider"
+168-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-86
+169            android:exported="false"
+169-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-37
+170            android:initOrder="99" /> <!-- Disable crashlytics by default so we can custom init with CrashlyticsNdk support -->
+170-->[:react-native-firebase_app] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-35
+171        <meta-data
+171-->[:react-native-firebase_crashlytics] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-16:37
+172            android:name="firebase_crashlytics_collection_enabled"
+172-->[:react-native-firebase_crashlytics] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-67
+173            android:value="false" />
+173-->[:react-native-firebase_crashlytics] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-34
+174
+175        <provider
+175-->[:react-native-firebase_crashlytics] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-22:38
+176            android:name="io.invertase.firebase.crashlytics.ReactNativeFirebaseCrashlyticsInitProvider"
+176-->[:react-native-firebase_crashlytics] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-104
+177            android:authorities="com.sorteet.com.reactnativefirebasecrashlyticsinitprovider"
+177-->[:react-native-firebase_crashlytics] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-94
+178            android:exported="false"
+178-->[:react-native-firebase_crashlytics] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+179            android:initOrder="98" />
+179-->[:react-native-firebase_crashlytics] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-35
+180
+181        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+181-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-111
+181-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-108
+182        <service
+182-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-23:19
+183            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+183-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-95
+184            android:exported="false" >
+184-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
+185            <intent-filter>
+185-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+186                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+186-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
+186-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
+187            </intent-filter>
+188        </service>
+189
+190        <receiver
+190-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-32:20
+191            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+191-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-96
+192            android:exported="true"
+192-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-36
+193            android:permission="com.google.android.c2dm.permission.SEND" >
+193-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-73
+194            <intent-filter>
+194-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+195                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+195-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+195-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+196            </intent-filter>
+197        </receiver>
+198
+199        <meta-data
+199-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:36
+200            android:name="firebase_messaging_auto_init_enabled"
+200-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-64
+201            android:value="true" />
+201-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-33
+202        <meta-data
+202-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:32
+203            android:name="com.google.firebase.messaging.default_notification_channel_id"
+203-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-89
+204            android:value="" />
+204-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-29
+205
+206        <provider
+206-->[:react-native-blob-util] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-blob-util/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-47:20
+207            android:name="com.ReactNativeBlobUtil.Utils.FileProvider"
+207-->[:react-native-blob-util] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-blob-util/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-70
+208            android:authorities="com.sorteet.com.provider"
+208-->[:react-native-blob-util] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-blob-util/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-60
+209            android:exported="false"
+209-->[:react-native-blob-util] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-blob-util/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-37
+210            android:grantUriPermissions="true" >
+210-->[:react-native-blob-util] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-blob-util/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-47
+211            <meta-data
+211-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:74:7-76:47
+212                android:name="android.support.FILE_PROVIDER_PATHS"
+212-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:75:11-61
+213                android:resource="@xml/provider_paths" />
+213-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:76:11-44
+214        </provider>
+215
+216        <activity android:name="com.masteratul.exceptionhandler.DefaultErrorScreen" >
+216-->[:react-native-exception-handler] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-13:20
+216-->[:react-native-exception-handler] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-exception-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-84
+217        </activity>
+218
+219        <provider
+219-->[:react-native-image-picker] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+220            android:name="com.imagepicker.ImagePickerProvider"
+220-->[:react-native-image-picker] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
+221            android:authorities="com.sorteet.com.imagepickerprovider"
+221-->[:react-native-image-picker] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
+222            android:exported="false"
+222-->[:react-native-image-picker] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+223            android:grantUriPermissions="true" >
+223-->[:react-native-image-picker] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+224            <meta-data
+224-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:74:7-76:47
+225                android:name="android.support.FILE_PROVIDER_PATHS"
+225-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:75:11-61
+226                android:resource="@xml/imagepicker_provider_paths" />
+226-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:76:11-44
+227        </provider>
+228
+229        <activity
+229-->[:react-native-inappbrowser-reborn] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-inappbrowser-reborn/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:9-23:20
+230            android:name="com.proyecto26.inappbrowser.ChromeTabsManagerActivity"
+230-->[:react-native-inappbrowser-reborn] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-inappbrowser-reborn/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-81
+231            android:exported="false" >
+231-->[:react-native-inappbrowser-reborn] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-inappbrowser-reborn/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-37
+232        </activity>
+233
+234        <provider
+234-->[:react-native-share] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+235            android:name="cl.json.RNShareFileProvider"
+235-->[:react-native-share] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-55
+236            android:authorities="com.sorteet.com.rnshare.fileprovider"
+236-->[:react-native-share] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-72
+237            android:exported="false"
+237-->[:react-native-share] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+238            android:grantUriPermissions="true" >
+238-->[:react-native-share] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+239            <meta-data
+239-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:74:7-76:47
+240                android:name="android.support.FILE_PROVIDER_PATHS"
+240-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:75:11-61
+241                android:resource="@xml/share_download_paths" />
+241-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:76:11-44
+242        </provider>
+243        <provider
+243-->[:react-native-webview] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+244            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+244-->[:react-native-webview] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+245            android:authorities="com.sorteet.com.fileprovider"
+245-->[:react-native-webview] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+246            android:exported="false"
+246-->[:react-native-webview] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+247            android:grantUriPermissions="true" >
+247-->[:react-native-webview] /home/sehar/Downloads/sorteet/neweko/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+248            <meta-data
+248-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:74:7-76:47
+249                android:name="android.support.FILE_PROVIDER_PATHS"
+249-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:75:11-61
+250                android:resource="@xml/file_provider_paths" />
+250-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:76:11-44
+251        </provider>
+252
+253        <activity
+253-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:34:9-37:66
+254            android:name="com.facebook.FacebookActivity"
+254-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:35:13-57
+255            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+255-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:36:13-96
+256            android:theme="@style/com_facebook_activity_theme" />
+256-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:37:13-63
+257        <activity android:name="com.facebook.CustomTabMainActivity" />
+257-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:38:9-71
+257-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:38:19-68
+258        <activity
+258-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:39:9-53:20
+259            android:name="com.facebook.CustomTabActivity"
+259-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:40:13-58
+260            android:exported="true" >
+260-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:41:13-36
+261            <intent-filter>
+261-->[com.facebook.android:facebook-common:14.1.1] /home/sehar/.gradle/caches/transforms-3/df1ed7588a69bf9da89685ae9a31f370/transformed/jetified-facebook-common-14.1.1/AndroidManifest.xml:43:13-52:29
+262                <action android:name="android.intent.action.VIEW" />
+262-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:93:11-63
+262-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:93:19-60
+263
+264                <category android:name="android.intent.category.DEFAULT" />
+264-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:94:11-70
+264-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:94:21-67
+265                <category android:name="android.intent.category.BROWSABLE" />
+265-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:95:11-72
+265-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:95:21-69
+266
+267                <data
+267-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:25:9-44
+268                    android:host="cct.com.sorteet.com"
+268-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:96:44-66
+269                    android:scheme="fbconnect" />
+269-->/home/sehar/Downloads/sorteet/neweko/android/app/src/main/AndroidManifest.xml:96:17-43
+270            </intent-filter>
+271        </activity> <!-- Needs to be explicitly declared on P+ -->
+272        <uses-library
+272-->[com.google.android.gms:play-services-maps:17.0.1] /home/sehar/.gradle/caches/transforms-3/19717603a0f6eddf840d714d415aa494/transformed/jetified-play-services-maps-17.0.1/AndroidManifest.xml:39:9-41:40
+273            android:name="org.apache.http.legacy"
+273-->[com.google.android.gms:play-services-maps:17.0.1] /home/sehar/.gradle/caches/transforms-3/19717603a0f6eddf840d714d415aa494/transformed/jetified-play-services-maps-17.0.1/AndroidManifest.xml:40:13-50
+274            android:required="false" />
+274-->[com.google.android.gms:play-services-maps:17.0.1] /home/sehar/.gradle/caches/transforms-3/19717603a0f6eddf840d714d415aa494/transformed/jetified-play-services-maps-17.0.1/AndroidManifest.xml:41:13-37
+275
+276        <receiver
+276-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:31:9-38:20
+277            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+277-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:32:13-78
+278            android:exported="true"
+278-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:33:13-36
+279            android:permission="com.google.android.c2dm.permission.SEND" >
+279-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:34:13-73
+280            <intent-filter>
+280-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+281                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+281-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+281-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+282            </intent-filter>
+283        </receiver>
+284        <!--
+285             FirebaseMessagingService performs security checks at runtime,
+286             but set to not exported to explicitly avoid allowing another app to call it.
+287        -->
+288        <service
+288-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:44:9-51:19
+289            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+289-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:45:13-82
+290            android:directBootAware="true"
+290-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:46:13-43
+291            android:exported="false" >
+291-->[com.google.firebase:firebase-messaging:23.1.1] /home/sehar/.gradle/caches/transforms-3/a72c1f1431f823290a54a94b93d1c7d1/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:47:13-37
+292            <intent-filter android:priority="-500" >
+292-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+293                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+293-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
+293-->[:react-native-firebase_messaging] /home/sehar/Downloads/sorteet/neweko/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
+294            </intent-filter>
+295        </service>
+296
+297        <activity
+297-->[com.google.android.gms:play-services-auth:19.2.0] /home/sehar/.gradle/caches/transforms-3/b151833bacadcd3c90eb7804e7130a21/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
+298            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+298-->[com.google.android.gms:play-services-auth:19.2.0] /home/sehar/.gradle/caches/transforms-3/b151833bacadcd3c90eb7804e7130a21/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
+299            android:excludeFromRecents="true"
+299-->[com.google.android.gms:play-services-auth:19.2.0] /home/sehar/.gradle/caches/transforms-3/b151833bacadcd3c90eb7804e7130a21/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
+300            android:exported="false"
+300-->[com.google.android.gms:play-services-auth:19.2.0] /home/sehar/.gradle/caches/transforms-3/b151833bacadcd3c90eb7804e7130a21/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
+301            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+301-->[com.google.android.gms:play-services-auth:19.2.0] /home/sehar/.gradle/caches/transforms-3/b151833bacadcd3c90eb7804e7130a21/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
+302        <!--
+303            Service handling Google Sign-In user revocation. For apps that do not integrate with
+304            Google Sign-In, this service will never be started.
+305        -->
+306        <service
+306-->[com.google.android.gms:play-services-auth:19.2.0] /home/sehar/.gradle/caches/transforms-3/b151833bacadcd3c90eb7804e7130a21/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
+307            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+307-->[com.google.android.gms:play-services-auth:19.2.0] /home/sehar/.gradle/caches/transforms-3/b151833bacadcd3c90eb7804e7130a21/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
+308            android:exported="true"
+308-->[com.google.android.gms:play-services-auth:19.2.0] /home/sehar/.gradle/caches/transforms-3/b151833bacadcd3c90eb7804e7130a21/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
+309            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+309-->[com.google.android.gms:play-services-auth:19.2.0] /home/sehar/.gradle/caches/transforms-3/b151833bacadcd3c90eb7804e7130a21/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
+310            android:visibleToInstantApps="true" />
+310-->[com.google.android.gms:play-services-auth:19.2.0] /home/sehar/.gradle/caches/transforms-3/b151833bacadcd3c90eb7804e7130a21/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
+311
+312        <activity
+312-->[com.google.android.gms:play-services-base:18.0.1] /home/sehar/.gradle/caches/transforms-3/55413b386fff563c5e194e2c54a6eadf/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+313            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+313-->[com.google.android.gms:play-services-base:18.0.1] /home/sehar/.gradle/caches/transforms-3/55413b386fff563c5e194e2c54a6eadf/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+314            android:exported="false"
+314-->[com.google.android.gms:play-services-base:18.0.1] /home/sehar/.gradle/caches/transforms-3/55413b386fff563c5e194e2c54a6eadf/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+315            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+315-->[com.google.android.gms:play-services-base:18.0.1] /home/sehar/.gradle/caches/transforms-3/55413b386fff563c5e194e2c54a6eadf/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+316
+317        <service
+317-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/sehar/.gradle/caches/transforms-3/21deb88dd5588accfedf5438f9e90c01/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+318            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+318-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/sehar/.gradle/caches/transforms-3/21deb88dd5588accfedf5438f9e90c01/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+319            android:exported="false" >
+319-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/sehar/.gradle/caches/transforms-3/21deb88dd5588accfedf5438f9e90c01/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+320            <meta-data
+320-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/sehar/.gradle/caches/transforms-3/21deb88dd5588accfedf5438f9e90c01/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+321                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+321-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/sehar/.gradle/caches/transforms-3/21deb88dd5588accfedf5438f9e90c01/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+322                android:value="cct" />
+322-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/sehar/.gradle/caches/transforms-3/21deb88dd5588accfedf5438f9e90c01/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+323        </service>
+324        <service
+324-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/sehar/.gradle/caches/transforms-3/2f60d11ee471bd4de36a6f8a19d7a054/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+325            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+325-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/sehar/.gradle/caches/transforms-3/2f60d11ee471bd4de36a6f8a19d7a054/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+326            android:exported="false"
+326-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/sehar/.gradle/caches/transforms-3/2f60d11ee471bd4de36a6f8a19d7a054/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+327            android:permission="android.permission.BIND_JOB_SERVICE" >
+327-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/sehar/.gradle/caches/transforms-3/2f60d11ee471bd4de36a6f8a19d7a054/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+328        </service>
+329
+330        <receiver
+330-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/sehar/.gradle/caches/transforms-3/2f60d11ee471bd4de36a6f8a19d7a054/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+331            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+331-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/sehar/.gradle/caches/transforms-3/2f60d11ee471bd4de36a6f8a19d7a054/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+332            android:exported="false" />
+332-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/sehar/.gradle/caches/transforms-3/2f60d11ee471bd4de36a6f8a19d7a054/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+333
+334        <meta-data
+334-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /home/sehar/.gradle/caches/transforms-3/cc9521fd13db6b64e1b3f681e4a0a4a9/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:11:9-13:43
+335            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+335-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /home/sehar/.gradle/caches/transforms-3/cc9521fd13db6b64e1b3f681e4a0a4a9/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:12:13-84
+336            android:value="GlideModule" />
+336-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /home/sehar/.gradle/caches/transforms-3/cc9521fd13db6b64e1b3f681e4a0a4a9/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:13:13-40
+337
+338        <provider
+338-->[com.google.firebase:firebase-common:20.2.0] /home/sehar/.gradle/caches/transforms-3/f1a348499b5c17b84a4de0ef60614b34/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:25:9-30:39
+339            android:name="com.google.firebase.provider.FirebaseInitProvider"
+339-->[com.google.firebase:firebase-common:20.2.0] /home/sehar/.gradle/caches/transforms-3/f1a348499b5c17b84a4de0ef60614b34/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:26:13-77
+340            android:authorities="com.sorteet.com.firebaseinitprovider"
+340-->[com.google.firebase:firebase-common:20.2.0] /home/sehar/.gradle/caches/transforms-3/f1a348499b5c17b84a4de0ef60614b34/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:27:13-72
+341            android:directBootAware="true"
+341-->[com.google.firebase:firebase-common:20.2.0] /home/sehar/.gradle/caches/transforms-3/f1a348499b5c17b84a4de0ef60614b34/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:28:13-43
+342            android:exported="false"
+342-->[com.google.firebase:firebase-common:20.2.0] /home/sehar/.gradle/caches/transforms-3/f1a348499b5c17b84a4de0ef60614b34/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:29:13-37
+343            android:initOrder="100" />
+343-->[com.google.firebase:firebase-common:20.2.0] /home/sehar/.gradle/caches/transforms-3/f1a348499b5c17b84a4de0ef60614b34/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:30:13-36
+344        <!--
+345         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+346         with the application context. This config is merged in with the host app's manifest,
+347         but there can only be one provider with the same authority activated at any given
+348         point; so if the end user has two or more different apps that use Facebook SDK, only the
+349         first one will be able to use the provider. To work around this problem, we use the
+350         following placeholder in the authority to identify each host application as if it was
+351         a completely different provider.
+352        -->
+353        <provider
+353-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:41:9-44:40
+354            android:name="com.facebook.internal.FacebookInitProvider"
+354-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:42:13-70
+355            android:authorities="com.sorteet.com.FacebookInitProvider"
+355-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:43:13-72
+356            android:exported="false" />
+356-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:44:13-37
+357
+358        <receiver
+358-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:46:9-52:20
+359            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+359-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:47:13-86
+360            android:exported="false" >
+360-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:48:13-37
+361            <intent-filter>
+361-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:49:13-51:29
+362                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+362-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:50:17-95
+362-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:50:25-92
+363            </intent-filter>
+364        </receiver>
+365        <receiver
+365-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:53:9-59:20
+366            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+366-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:54:13-118
+367            android:exported="false" >
+367-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:55:13-37
+368            <intent-filter>
+368-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:56:13-58:29
+369                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+369-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:57:17-103
+369-->[com.facebook.android:facebook-core:14.1.1] /home/sehar/.gradle/caches/transforms-3/14795ca3964b140ffe9381deb7f0b6da/transformed/jetified-facebook-core-14.1.1/AndroidManifest.xml:57:25-100
+370            </intent-filter>
+371        </receiver>
+372        <receiver
+372-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:29:9-33:20
+373            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+373-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:30:13-85
+374            android:enabled="true"
+374-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:31:13-35
+375            android:exported="false" >
+375-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:32:13-37
+376        </receiver>
+377
+378        <service
+378-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:35:9-38:40
+379            android:name="com.google.android.gms.measurement.AppMeasurementService"
+379-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:36:13-84
+380            android:enabled="true"
+380-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:37:13-35
+381            android:exported="false" />
+381-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:38:13-37
+382        <service
+382-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:39:9-43:72
+383            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+383-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:40:13-87
+384            android:enabled="true"
+384-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:41:13-35
+385            android:exported="false"
+385-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:42:13-37
+386            android:permission="android.permission.BIND_JOB_SERVICE" />
+386-->[com.google.android.gms:play-services-measurement:21.1.1] /home/sehar/.gradle/caches/transforms-3/2e57e40d11c5f573eaabba6fcc02b3c8/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:43:13-69
+387    </application>
+388
+389</manifest>

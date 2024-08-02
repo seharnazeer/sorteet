@@ -1,0 +1,6 @@
+module Pods_FoodDelivery {
+  umbrella header "Pods-FoodDelivery-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,730 @@
+[
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-mdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_bookingconfirm.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_bookingconfirm.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_app_assets_image_driver.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/app_assets_image_driver.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativeurlpolyfill_package.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativeurlpolyfill_package.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_currencyformatter_localeformats.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_currencyformatter_localeformats.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_app_assets_image_bookingconfirm.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/app_assets_image_bookingconfirm.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_src_icons_stp_card_unknown.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_src_icons_stp_card_unknown.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_currencyformatter_currencies.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_currencyformatter_currencies.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_banner.jpeg.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_banner.jpeg"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_images_cardback.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_images_cardback.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/xml_filepaths.xml.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/xml/filepaths.xml"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-hdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_app_locales_ar_new.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/app_locales_ar_new.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-mdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_dist_src_basic_icon_selection.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_dist_src_basic_icon_selection.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_driver.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_driver.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_card_back.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_card_back.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_card_front.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_card_front.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_src_icons_stp_card_visa.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_src_icons_stp_card_visa.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_app_assets_image_destination.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/app_assets_image_destination.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_src_icons_stp_card_discover.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_src_icons_stp_card_discover.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_app_assets_57513glasshour.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/app_assets_57513glasshour.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-hdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_src_icons_stp_card_cvc_amex.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_src_icons_stp_card_cvc_amex.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeelementdropdown_src_textinput_icon_close.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelementdropdown_src_textinput_icon_close.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_app_locales_en_new.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/app_locales_en_new.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_destination.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_destination.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_mdndata_css_atrules.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_mdndata_css_atrules.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_location_pin.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_location_pin.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nodeemoji_lib_emoji.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nodeemoji_lib_emoji.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_splash.jpeg.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_splash.jpeg"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_app_assets_image_confirmation.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/app_assets_image_confirmation.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_app_assets_qr_loader.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/app_assets_qr_loader.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_close.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_close.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable_ic_splash.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable/ic_splash.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_assets_image_location_pin.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/app_assets_image_location_pin.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_csstree_package.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_csstree_package.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_src_icons_stp_card_mastercard.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_src_icons_stp_card_mastercard.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_app_assets_61508waiting.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/app_assets_61508waiting.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_libphonenumberjs_metadatamin.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_libphonenumberjs_metadatamin.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_src_icons_stp_card_diners.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_src_icons_stp_card_diners.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_src_icons_stp_card_cvc.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_src_icons_stp_card_cvc.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_csstree_data_patch.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_csstree_data_patch.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_bg_password.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_bg_password.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_assets_image_destination.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/app_assets_image_destination.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_dist_src_basic_icon_nbicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_dist_src_basic_icon_nbicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_imageloading.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_imageloading.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_confirmation.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_confirmation.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativecountrypickermodal_lib_assets_data_countriesemoji.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativecountrypickermodal_lib_assets_data_countriesemoji.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_locationerror.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_locationerror.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnative_package.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnative_package.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_app_assets_image_location_pin.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/app_assets_image_location_pin.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_app.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/app.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable_startup_screen.xml.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable/startup_screen.xml"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_src_icons_stp_card_amex.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_src_icons_stp_card_amex.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_assets_image_bg_password.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/app_assets_image_bg_password.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable_ic_notification.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable/ic_notification.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_src_icons_stp_card_jcb.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_src_icons_stp_card_jcb.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_app_locales_fr_new.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/app_locales_fr_new.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_icon_down.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_icon_down.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_assets_image_512.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/app_assets_image_512.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_mdndata_css_syntaxes.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_mdndata_css_syntaxes.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_assets_image_driver.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/app_assets_image_driver.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_mdndata_css_properties.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_mdndata_css_properties.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_app_assets_image_bg_password.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xhdpi/app_assets_image_bg_password.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecreditcardinput_images_cardfront.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecreditcardinput_images_cardfront.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_assets_image_confirmation.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/app_assets_image_confirmation.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_assets_image_bookingconfirm.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-xxhdpi/app_assets_image_bookingconfirm.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_logo_white.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/mipmap-xxxhdpi/logo_white.png"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "/home/sehar/Downloads/sorteet/neweko/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    }
+]

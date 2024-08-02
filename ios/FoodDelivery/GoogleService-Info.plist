@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>242841391600-jv65i116iamt586fvs90q9tueipp9n76.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.242841391600-jv65i116iamt586fvs90q9tueipp9n76</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>242841391600-e7fcikbn42tb7iab7f3sjos840epkmeg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-01i4J7JCkBDZqAajHP9n6iL3FgtYZ6s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>242841391600</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ekohotelsdelivery.customer</string>
+	<key>PROJECT_ID</key>
+	<string>eko-hotels-delivery</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eko-hotels-delivery.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:242841391600:ios:2ace93f23ffc29d2e94d35</string>
+</dict>
+</plist>

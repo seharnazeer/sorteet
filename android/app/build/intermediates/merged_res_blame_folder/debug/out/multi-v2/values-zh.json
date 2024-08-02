@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sehar/Downloads/sorteet/neweko/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/home/sehar/.gradle/caches/transforms-3/85a32c3831a6cc9fbf539586a5ffde79/transformed/jetified-WheelPicker-1.0.3/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,425",
+                        "endLines": "15,29",
+                        "endColumns": "19,19",
+                        "endOffsets": "420,759"
+                    }
+                }
+            ]
+        }
+    ]
+}
